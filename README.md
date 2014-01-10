@@ -3,4 +3,8 @@ sankalpk_hola
 
 A "hello world" gem I created. 
 
-Install it by running gem install sankalpk_hola from the terminal.
+Install by running the following from the terminal.
+
+```
+gem install sankalpk_hola
+```
